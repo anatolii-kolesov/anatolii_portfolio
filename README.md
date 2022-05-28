@@ -1,10 +1,12 @@
-# [Project 1: Churn Prediction with Logistic Regression (R)] (
+# My Data Science Projects
+
+# [Project 1: Churn Prediction with Logistic Regression (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/classification_r/churn_prediction_with_logistic_regression.html)
 
 # [Project 2: Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)](https://github.com/anatolii-kolesov/ds_code/tree/main/classification_python)
 
-# Project 3: University Rankings Cluster Analysis (R)
+# [Project 3: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
-# Project 4: University Rankings Principal Component Analysis (R)
+# [Project 4: University Rankings Principal Component Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/PCA_r/PCA.Rmd)
 
 
 ### Markdown
