@@ -1,6 +1,6 @@
 # [Project 1: Churn Prediction with Logistic Regression (R)] (
 
-# Project 2: [Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)] (https://github.com/anatolii-kolesov/ds_code)
+# [Project 2: Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)](https://github.com/anatolii-kolesov/ds_code)
 
 # Project 3: University Rankings Cluster Analysis (R)
 
