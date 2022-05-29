@@ -1,14 +1,32 @@
 # My Data Science Projects
 
 # [Project 1: Churn Prediction with Logistic Regression (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/classification_r/churn_prediction_with_logistic_regression.html)
+### Overview
+In this project I developed a logistic regression model to predict customer churn in a bank and estimated the time to churn with survival function.
+The goal of the project was to identify the most important factors influencing customer churn and the average tenure of a customer before they churn.
+
+### Results
+- A Logistic Regression model was able to predict customer churn correctly with 78% accuracy.
+- The most important factors for predicting churn are client’s place of residence, number of products they have and being an active member. Tenure, age and gender might also influence churn.
+- On average, bank has ~ 10 months before the customer becomes very likely to churn. Keep in mind that this shows that the bank has been operating for a short period so far and it might change.
+
+### Logistic regression model
+![Image](src)
+
+### Survival Analysis
+
+![Image](src)
 
 # [Project 2: Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)](https://github.com/anatolii-kolesov/ds_code/tree/main/classification_python)
 
-# [Project 3: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
+# [Project 3: Powerlifting Dashboard (Power BI)]()
 
-# [Project 4: University Rankings Principal Component Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/PCA_r/PCA.Rmd)
+# [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
+
+# [Project 5: University Rankings Principal Component Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/PCA_r/PCA.Rmd)
 
 
+# [Project 6: Sales Dashboard (Power BI)]()
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
