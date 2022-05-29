@@ -11,22 +11,62 @@ The goal of the project was to identify the most important factors influencing c
 - On average, bank has ~ 10 months before the customer becomes very likely to churn. Keep in mind that this shows that the bank has been operating for a short period so far and it might change.
 
 ### Logistic regression model
-![Image](src)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/logistic_regression_model_output.PNG)
 
 ### Survival Analysis
 
-![Image](src)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/Survival_function_plot.PNG)
 
 # [Project 2: Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)](https://github.com/anatolii-kolesov/ds_code/tree/main/classification_python)
 
-# [Project 3: Powerlifting Dashboard (Power BI)]()
+
+### Naive Bayes Classifier Confusion Matrix
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/NB_cm.png)
+
+
+### Decision Tree Classifier Confusion Matrix
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/DT_cm.png)
+
+### Logistic Regression Classifier Confusion Matrix
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/LR_cm.png)
+
+# [Project 3: Powerlifting Dashboard (Power BI)](https://github.com/anatolii-kolesov/ds_code/tree/main/powerlifting_dashboard)
+
+### Key findings page
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/powerlifting_dashboard.png)
 
 # [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
+
+### K-means clustering solution
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/k-means_clustering.png)
+
+### Agglomerative clustering solution
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/agglomerative_clustering.png)
+
 # [Project 5: University Rankings Principal Component Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/PCA_r/PCA.Rmd)
 
+### PCA decomposition
 
-# [Project 6: Sales Dashboard (Power BI)]()
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/PCA.png)
+
+### PCA with countries
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/PCA_countries.png)
+
+# [Project 6: Sales Dashboard (Power BI)](https://github.com/anatolii-kolesov/ds_code/tree/main/sales_dashboard)
+
+
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/sales_dashboard.png)
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
