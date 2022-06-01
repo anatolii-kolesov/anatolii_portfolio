@@ -11,7 +11,7 @@ The goal of the project was to identify the most important factors influencing c
 - On average, bank has ~ 10 months before the customer becomes very likely to churn. Keep in mind that this shows that the bank has been operating for a short period so far and it might change.
 
 ### Logistic regression model
-![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/logistic_regression_model_output.PNG)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/logistic_regression_model_output.PNG = 250x250)
 
 ### Survival Analysis
 
