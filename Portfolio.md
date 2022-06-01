@@ -72,7 +72,9 @@ The dataset used was obtained from [OpenPowerlifting](https://www.openpowerlifti
 
 # [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
-In this project I explored possible 
+In this project I explored possible clustering solution for the Times Higher Education World University Rankings 2020.
+
+I ended up with 4 cluster solutions showing different groups of universities.
 
 ### K-means clustering solution
 
