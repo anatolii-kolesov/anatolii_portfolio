@@ -73,12 +73,12 @@ Confusion matrices for each of the models:
 
 ### PCA with countries
 
-![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/PCA_countries.png)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/PCA_country.png)
 
 # [Project 6: Sales Dashboard (Power BI)](https://github.com/anatolii-kolesov/ds_code/tree/main/sales_dashboard)
 
 
-![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/sales_dashboard.png)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/sales_dashboard.PNG)
 
 
 
