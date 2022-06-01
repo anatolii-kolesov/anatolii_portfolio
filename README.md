@@ -1,4 +1,4 @@
-# My Data Science Projects
+# Anatolii Kolesov - Data Science / Analytics Projects
 
 # [Project 1: Churn Prediction with Logistic Regression (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/classification_r/churn_prediction_with_logistic_regression.html)
 ### Overview
@@ -11,19 +11,34 @@ The goal of the project was to identify the most important factors influencing c
 - On average, bank has ~ 10 months before the customer becomes very likely to churn. Keep in mind that this shows that the bank has been operating for a short period so far and it might change.
 
 ### Logistic regression model
-![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/logistic_regression_model_output.PNG = 250x250)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/logistic_regression_model_output.PNG)
 
 ### Survival Analysis
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/Survival_function_plot.PNG)
 
 # [Project 2: Customer Satisfaction Prediction with Naive Bayes, Decision Trees, Logistic Regression (Python)](https://github.com/anatolii-kolesov/ds_code/tree/main/classification_python)
+### Overview 
+This project describes the development of a machine learning solution that would allow to predict the satisfaction of customers of an airline compnay based on individual satisfaction scores, features of customers, such as age, gender, and conditions of flights, such as distance traveled and arrival/departure delay.
 
+The models were trained and tested on a dataset from [Kaggle](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction).
+
+### Executive summary
+Three machine learning models were developed using Naive Bayes (NB), Decision Trees (DT), and Logistic Regression (LR) algorithms.
+
+With model tuning, the highest testing accuracy levels achieved with each algorithm were the following:
+
+- Naive Bayes - 86.7%
+- Decision Tree - 95%
+- Logistic Regression - 87.3%
+
+Decision Tree algorithm yeilded the highest accuracy and given its easy interpretability is deemed to be the best solution for this problem.
+
+Confusion matrices for each of the models:
 
 ### Naive Bayes Classifier Confusion Matrix
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/NB_cm.png)
-
 
 ### Decision Tree Classifier Confusion Matrix
 
@@ -37,7 +52,7 @@ The goal of the project was to identify the most important factors influencing c
 
 ### Key findings page
 
-![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/powerlifting_dashboard.png)
+![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/powerlifting_dashboard.PNG)
 
 # [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
