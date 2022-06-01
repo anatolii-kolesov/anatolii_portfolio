@@ -50,12 +50,29 @@ Confusion matrices for each of the models:
 
 # [Project 3: Powerlifting Dashboard (Power BI)](https://github.com/anatolii-kolesov/ds_code/tree/main/powerlifting_dashboard)
 
+### Overview
+
+This project explores powerlifting – a sport in which athletes attempt to lift maximum weight for one repetition in squat, bench press and deadlift within their sex, weight and age categories. In this project I developed a dashboard that describes the composition of current powerlifting athletes, their results and powerlifting events as well as the relationships between certain parameters of the athletes (age, bodyweight, gender, equipment used) and the performance in each discipline. Two visuals in the last pages show the most influential factors that determine if an athlete is going to win a competition.
+
+### Executive summary
+
+- Body weight of an athlete was found to be positively related with the total weight lifted – heavier athletes on average are able to lift more total weight compared to lighter weight athletes. The average total weight lifted is lower for female athletes of the same body weight as male athletes. This trend is observed for all three exercises, the only difference is that the gap between how much more a male athlete is able to squat widens with the increase in body weight.
+- The older the athlete, the less weight they are able to lift overall. This is true for male and female athletes, but on average male athletes are able to lift more weight that female athletes at any age, although this gap decreases with age.
+- Older male athletes will be able to lift more weight in squat than in two other exercises compared to female athletes.
+- The only influential predictors of being a winner of a competition are being at the end of the age or body weight distribution – either under 23 or over 40 and older when it comes to age, either under 60 kg or over 120 kg. This is simply because most athletes compete within “Open” age division (23 to 39 y.o.) and are of a medium weight (more than 60 kg, but less than 120kg), so athletes that compete outside of these categories simply have higher chances to win because there is less competition.
+- The most important predictor of lifting the highest weight is different for male and female athletes. For males the most important factor of lifting the highest possible weight is the equipment used – the highest possible weight among males is lifted in wraps. For females the most important factor is the test status. On average, females that were not tested for performance-enhancing drugs (and hence had the opportunity to use them) lift higher total weight than those that were tested. Other than that, males on average lift higher weight than females, heavier weight athletes (over 80 kg) lift higher weight than lighter athletes, and athletes younger than 28 years old on average lift more weight than athletes that are older.
+- For the all-time maximum weight lifted in each exercise the equipment used was different, for average values the lowest weight is lifted without equipment and the highest weight is lifted in the “Unlimited” category with the most supportive equipment.
+- The highest possible lifts in every exercise for both male and female athletes were achieved in non-tested competitions. The same is true for averages, although for females the averages for non-tested versus tested are only 10 to 20 kg higher, while in all other categories the difference between tested versus non-tested is much higher - 30 kilograms and more.
+
+The dataset used was obtained from [OpenPowerlifting](https://www.openpowerlifting.org/) website.
+
 ### Key findings page
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/powerlifting_dashboard.PNG)
 
 # [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
+In this project I explored possible 
 
 ### K-means clustering solution
 
@@ -77,32 +94,9 @@ Confusion matrices for each of the models:
 
 # [Project 6: Sales Dashboard (Power BI)](https://github.com/anatolii-kolesov/ds_code/tree/main/sales_dashboard)
 
+### Overview
+
+This is a sales dashboard I made using the in-built dataset in Power BI
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/sales_dashboard.PNG)
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
