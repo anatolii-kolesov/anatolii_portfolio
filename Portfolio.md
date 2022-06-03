@@ -122,7 +122,7 @@ Universities from this group have a lot of international students and professors
 
 In this project I tried to reduce the dimensionality of the Times Higher Education World University Rankings 2020 and develop 2 principal components that could be used to evaluate the position of a university in the rankings.
 
-The following graph shows the direction of each variable in relation to principal components 1 and 2.
+The following graph shows the direction of each variable in relation to principal components 1 and 2. From the graph it can be seen that the first component (PC1) consists of all the scores such as teaching and research quality, number of citations, industry income, international outlook and % of international students, whereas PC2 stands for such varaibles as the number of students, the ration of staff to students and the % of female students.
 
 ### PCA decomposition
 
@@ -138,7 +138,7 @@ The further task was to check a hypothesis that American and UK universities are
 
 ### Overview
 
-This is a sales dashboard I made using the in-built dataset in Power BI
+This is a sales dashboard I made using the in-built dataset in Power BI showing the sales, profits and units of products sold by an online store.
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/sales_dashboard.PNG)
 
