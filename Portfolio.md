@@ -72,7 +72,7 @@ The dataset used was obtained from [OpenPowerlifting](https://www.openpowerlifti
 
 # [Project 4: University Rankings Cluster Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/cluster_analysis_r/A.Kolesov_CA.Rmd)
 
-In this project I explored possible clustering solution for the Times Higher Education World University Rankings 2020.
+In this project I tried finding groups of similar universities in the Times Higher Education World University Rankings 2020 using k-means and agglomerative clustering.
 
 I ended up with 4 cluster solutions showing different groups of universities.
 
@@ -84,11 +84,51 @@ I ended up with 4 cluster solutions showing different groups of universities.
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/agglomerative_clustering.png)
 
+
+### Mediocre, but big (Cluster 1)
+
+These universities are not the best, but they accept the largest number of students, so technically the chances of getting admitted are slightly higher.
+
+Nothing special about studying here, just get your diploma and go on. 
+
+Universities from this group depend on the country - most of them are located in developing countries with populations starting from at least 100 million. You probably would not find such a university in Western Europe.
+
+### The best (not the most international) (Cluster 2)
+
+These universities have the highest teaching and research quality, studying in these universities will probably result in having the best career and/or academic perspectives. 
+
+The competition (and the tuition fees) are probably the highest for these universities, only the best students make their way to study here, but the benefits are great as well.
+
+Prospective students who do not have any remarkable achievements or substantial amount of money should probably consider other options.
+
+These universities are also located in certain countries, usually developed countries where the share of international students is not so big (the US would be a common example). If a student wants to study in one of the best universities in the world, is not from the US and does not mind being national minority then it should not be a problem.
+
+
+### Just mediocre (Cluster 3)
+
+These universities are just average, nothing special, but they are not so big as those from the 1st group.
+
+Students who just want to get some higher education and move on are welcome here. The choice of countries would probably be wider as well, you can find an average university virtually anywhere in the world.
+
+
+### The most international (Cluster 4)
+
+These universities might not be the best in the world (they are okay though), but if a student is looking for an opportunity to study in a very international environment then this is the right choice. 
+
+Universities from this group have a lot of international students and professors and collaborate the most with other institutions internationally.
+
+
 # [Project 5: University Rankings Principal Component Analysis (R)](https://github.com/anatolii-kolesov/ds_code/blob/main/PCA_r/PCA.Rmd)
+
+In this project I tried to reduce the dimensionality of the Times Higher Education World University Rankings 2020 and develop 2 principal components that could be used to evaluate the position of a university in the rankings.
+
+The following graph shows the direction of each variable in relation to principal components 1 and 2.
 
 ### PCA decomposition
 
 ![](https://github.com/anatolii-kolesov/anatolii_portfolio/blob/main/images/PCA.png)
+
+The further task was to check a hypothesis that American and UK universities are the best ones according to this rating (e.g. have the highest values in PC1 and PC2). The 2nd picture shows the same PCA decomposition but with US and UK universities highlighted so that the conclusion can be made about this hypothesis that they are indeed the best universities.
 
 ### PCA with countries
 
